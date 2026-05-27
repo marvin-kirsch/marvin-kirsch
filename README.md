@@ -1,5 +1,5 @@
 ### Currently getting deeper into Rust 
-### Exporing Quantum Computing 
+### Exploring Quantum Computing 
 ### Trying Embedded 
 ### While surviving and building and flying Drones.
 
